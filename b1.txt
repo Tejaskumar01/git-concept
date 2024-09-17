@@ -1,3 +1,5 @@
 html is stands for hyper text mark up lang 
 
 it is used to creat web pages
+
+it is easy to learn
